@@ -1,0 +1,17 @@
+# Livvi (Olonets Karelian): Kotkozero dialect
+kuuluo	kuwluw	V;PRS;IND;POS;3;SG
+neidoi	n’eidoi	N;NOM;SG
+nelläs	nel’l’äs	NUM;NOM;SG
+velli	vellen	N;GEN;SG
+velli	velli	N;NOM;SG
+velli	vellie	N;NOM;PL
+velli	vellie	N;PRT;SG
+velli	vellii	N;PRT;PL
+velli	vellilöi	N;PRT;PL
+vuozi	vuozi	N;NOM;SG
+vuozi	vuottu	N;PRT;SG
+vuozi	vuvven	N;GEN;SG
+vuozi	vuvvekse	N;TRANS;SG
+vuozi	vuodeh	N;IN+ABL;SG
+vuozi	vuvvel	N;AT+ESS;SG
+vuozi	vuvvet	N;NOM;PL
