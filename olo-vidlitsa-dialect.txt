@@ -1,4 +1,4 @@
-# Livvi (Olonets Karelian): Vidlitsa dialect
+# Livvi: Vidlitsa
 astuo	astu	V;IMP;POS;2;SG
 astuo	astui	V;PST;IPFV;IND;POS;3;SG
 astuo	astui	V.PTCP;PRS;ACT
