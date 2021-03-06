@@ -1,0 +1,606 @@
+# Livvi: Vidlitsa
+ahtistaa	ahtistaa	V;NFIN
+aleittaa	aleittaa	V;NFIN
+amburjaine	amburjaine	N;NOM;SG
+amburjaine	amburjaine	N;ACC;SG
+astiat	astiat	N;NOM;SG
+astiat	astiat	N;ACC;SG
+astuo	astu	V;IMP;POS;2;SG
+astuo	astui	V;PST;IPFV;IND;POS;3;SG
+astuo	astui	V.PTCP;PRS;ACT
+astuo	astun	V;PRS;IND;POS;1;SG
+astuo	astut	V;PRS;IND;POS;2;SG
+astuo	en astu	V;PRS;IND;NEG;1;SG
+astuo	ei astu	V;PRS;IND;NEG;3;SG
+astuo	astuin	V;PST;IPFV;IND;POS;1;SG
+astuo	astuit	V;PST;IPFV;IND;POS;2;SG
+astuo	astuu	V;PRS;IND;POS;3;SG
+astuo	astutah	V;PRS;IND;POS;3;PL
+astuo	et astu	V;PRS;IND;NEG;2;SG
+astuo	ei astuta	V;PRS;IND;NEG;3;PL
+astuo	astuttih	V;PST;IPFV;IND;POS;3;PL
+astuo	ei astuttu	V;PST;IPFV;IND;NEG;3;PL
+astuo	oldih astuttu	V;PST;PRF;IND;POS;3;PL
+astuo	ei oldu astuttu	V;PST;PRF;IND;NEG;3;PL
+astuo	älä astu	V;IMP;NEG;2;SG
+astuo	astunen	V;PRS;POT;POS;1;SG
+astuo	astunet	V;PRS;POT;POS;2;SG
+astuo	astutanneh	V;PRS;POT;POS;3;PL
+astuo	en astune	V;PRS;POT;NEG;1;SG
+astuo	et astune	V;PRS;POT;NEG;2;SG
+astuo	ei astune	V;PRS;POT;NEG;3;SG
+astuo	ei astutanne	V;PRS;POT;NEG;3;PL
+astuo	astuttu	V.PTCP;PST;PASS
+astuo	astummo	V;PRS;IND;POS;1;PL
+astuo	astutto	V;PRS;IND;POS;2;PL
+astuo	emmo astu	V;PRS;IND;NEG;1;PL
+astuo	etto astu	V;PRS;IND;NEG;2;PL
+astuo	astuimmo	V;PST;IPFV;IND;POS;1;PL
+astuo	astuitto	V;PST;IPFV;IND;POS;2;PL
+astuo	en astunuh	V;PST;IPFV;IND;NEG;1;SG
+astuo	et astunuh	V;PST;IPFV;IND;NEG;2;SG
+astuo	ei astunuh	V;PST;IPFV;IND;NEG;3;SG
+astuo	emmo astunuh	V;PST;IPFV;IND;NEG;1;PL
+astuo	etto astunuh	V;PST;IPFV;IND;NEG;2;PL
+astuo	olen astunuh	V;PRS;PRF;IND;POS;1;SG
+astuo	olet astunuh	V;PRS;PRF;IND;POS;2;SG
+astuo	on astunuh	V;PRS;PRF;IND;POS;3;SG
+astuo	olemmo astunuh	V;PRS;PRF;IND;POS;1;PL
+astuo	oletto astunuh	V;PRS;PRF;IND;POS;2;PL
+astuo	on astuttu	V;PRS;PRF;IND;POS;3;PL
+astuo	en ole astunuh	V;PRS;PRF;IND;NEG;1;SG
+astuo	et ole astunuh	V;PRS;PRF;IND;NEG;2;SG
+astuo	ei ole astunuh	V;PRS;PRF;IND;NEG;3;SG
+astuo	emmo ole astunuh	V;PRS;PRF;IND;NEG;1;PL
+astuo	etto ole astunuh	V;PRS;PRF;IND;NEG;2;PL
+astuo	ei olla astuttu	V;PRS;PRF;IND;NEG;3;PL
+astuo	olin astunuh	V;PST;PRF;IND;POS;1;SG
+astuo	olit astunuh	V;PST;PRF;IND;POS;2;SG
+astuo	oli astunuh	V;PST;PRF;IND;POS;3;SG
+astuo	olimmo astunuh	V;PST;PRF;IND;POS;1;PL
+astuo	olitto astunuh	V;PST;PRF;IND;POS;2;PL
+astuo	en olluh astunuh	V;PST;PRF;IND;NEG;1;SG
+astuo	et olluh astunuh	V;PST;PRF;IND;NEG;2;SG
+astuo	ei olluh astunuh	V;PST;PRF;IND;NEG;3;SG
+astuo	emmo olluh astunuh	V;PST;PRF;IND;NEG;1;PL
+astuo	etto olluh astunuh	V;PST;PRF;IND;NEG;2;PL
+astuo	astukkah	V;IMP;POS;3;SG
+astuo	astukkaammo	V;IMP;POS;1;PL
+astuo	astukkaatto	V;IMP;POS;2;PL
+astuo	astuttahes	V;IMP;POS;3;PL
+astuo	älgäh astukkah	V;IMP;NEG;3;SG
+astuo	älgäämmö  astukkaammo	V;IMP;NEG;1;PL
+astuo	älgää astukkaa	V;IMP;NEG;2;PL
+astuo	äldähes astuttahes	V;IMP;NEG;3;PL
+astuo	astuzin	V;PRS;COND;POS;1;SG
+astuo	astuzit	V;PRS;COND;POS;2;SG
+astuo	astus	V;PRS;COND;POS;3;SG
+astuo	astuzimmo	V;PRS;COND;POS;1;PL
+astuo	astuzitto	V;PRS;COND;POS;2;PL
+astuo	astuttas	V;PRS;COND;POS;3;PL
+astuo	en astus	V;PRS;COND;NEG;1;SG
+astuo	et astus	V;PRS;COND;NEG;2;SG
+astuo	ei astus	V;PRS;COND;NEG;3;SG
+astuo	emmo astus	V;PRS;COND;NEG;1;PL
+astuo	etto astus	V;PRS;COND;NEG;2;PL
+astuo	ei astuttas	V;PRS;COND;NEG;3;PL
+astuo	astunuzin	V;PST;IPFV;COND;POS;1;SG
+astuo	astunuzit	V;PST;IPFV;COND;POS;2;SG
+astuo	astunus	V;PST;IPFV;COND;POS;3;SG
+astuo	astunuzimmo	V;PST;IPFV;COND;POS;1;PL
+astuo	astunuzitto	V;PST;IPFV;COND;POS;2;PL
+astuo	astuttus	V;PST;IPFV;COND;POS;3;PL
+astuo	en astunus	V;PST;IPFV;COND;NEG;1;SG
+astuo	et astunus	V;PST;IPFV;COND;NEG;2;SG
+astuo	ei astunus	V;PST;IPFV;COND;NEG;3;SG
+astuo	emmo astunus	V;PST;IPFV;COND;NEG;1;PL
+astuo	etto astunus	V;PST;IPFV;COND;NEG;2;PL
+astuo	ei astuttus	V;PST;IPFV;COND;NEG;3;PL
+astuo	olizin astunuh	V;PRS;PRF;COND;POS;1;SG
+astuo	olizit astunuh	V;PRS;PRF;COND;POS;2;SG
+astuo	olis  astunuh	V;PRS;PRF;COND;POS;3;SG
+astuo	olizimmo astunuh	V;PRS;PRF;COND;POS;1;PL
+astuo	olizitto astunuh	V;PRS;PRF;COND;POS;2;PL
+astuo	oldas astuttu	V;PRS;PRF;COND;POS;3;PL
+astuo	en olis astunuh	V;PRS;PRF;COND;NEG;1;SG
+astuo	et olis astunuh	V;PRS;PRF;COND;NEG;2;SG
+astuo	ei olis astunuh	V;PRS;PRF;COND;NEG;3;SG
+astuo	emmo olis astunuh	V;PRS;PRF;COND;NEG;1;PL
+astuo	etto olis astunuh	V;PRS;PRF;COND;NEG;2;PL
+astuo	ei oldas astuttu	V;PRS;PRF;COND;NEG;3;PL
+astuo	olluzin astunuh	V;PST;PRF;COND;POS;1;SG
+astuo	olluzit astunuh	V;PST;PRF;COND;POS;2;SG
+astuo	ollus astunuh	V;PST;PRF;COND;POS;3;SG
+astuo	olluzimmo astunuh	V;PST;PRF;COND;POS;1;PL
+astuo	olluzitto astunuh	V;PST;PRF;COND;POS;2;PL
+astuo	oldanus astuttu	V;PST;PRF;COND;POS;3;PL
+astuo	en ollus astunuh	V;PST;PRF;COND;NEG;1;SG
+astuo	et ollus astunuh	V;PST;PRF;COND;NEG;2;SG
+astuo	ei ollus astunuh	V;PST;PRF;COND;NEG;3;SG
+astuo	emmo ollus astunuh	V;PST;PRF;COND;NEG;1;PL
+astuo	etto ollus astunuh	V;PST;PRF;COND;NEG;2;PL
+astuo	ei oldanus astuttu	V;PST;PRF;COND;NEG;3;PL
+astuo	astunoo	V;PRS;POT;POS;3;SG
+astuo	astunemmo	V;PRS;POT;POS;1;PL
+astuo	astunetto	V;PRS;POT;POS;2;PL
+astuo	emmo astune	V;PRS;POT;NEG;1;PL
+astuo	etto astune	V;PRS;POT;NEG;2;PL
+astuo	ollen astunuh	V;PRS;PRF;POT;POS;1;SG
+astuo	ollet astunuh	V;PRS;PRF;POT;POS;2;SG
+astuo	ollou astunuh	V;PRS;PRF;POT;POS;3;SG
+astuo	ollemmo astunuh	V;PRS;PRF;POT;POS;1;PL
+astuo	olletto astunuh	V;PRS;PRF;POT;POS;2;PL
+astuo	oldaneh astuttu	V;PRS;PRF;POT;POS;3;PL
+astuo	en olle astunuh	V;PRS;PRF;POT;NEG;1;SG
+astuo	et olle astunuh	V;PRS;PRF;POT;NEG;2;SG
+astuo	ei olle astunuh	V;PRS;PRF;POT;NEG;3;SG
+astuo	emmo olle astunuh	V;PRS;PRF;POT;NEG;1;PL
+astuo	etto olle astunuh	V;PRS;PRF;POT;NEG;2;PL
+astuo	ei oldane astuttu	V;PRS;PRF;POT;NEG;3;PL
+astuo	astua	V;NFIN
+astuo	astuju	V.PTCP;PRS;ACT
+astuo	astunuh	V.PTCP;PST;ACT
+astuo	astuttavu	V.PTCP;PRS;PASS
+azua	azua	V;NFIN
+baabo	baabo	N;NOM;SG
+baabo	baabo	N;ACC;SG
+biiboi	biiboi	N;NOM;SG
+biiboi	biiboi	N;ACC;SG
+blahoslovia	blahoslovia	V;NFIN
+dähkiä	dähkiä	V;NFIN
+dähmettüä	dähmettüä	V;NFIN
+dälgi	dälgi	N;NOM;SG
+dälgi	dälgi	N;ACC;SG
+därittää	därittää	V;NFIN
+dättää	dättää	V;NFIN
+dää	dää	N;NOM;SG
+dää	dää	N;ACC;SG
+däädö	däädö	N;NOM;SG
+däädö	däädö	N;ACC;SG
+d’agaa	d’agaa	V;NFIN
+d’aksaa	d’aksaa	V;NFIN
+d’aksattaa	d’aksattaa	V;NFIN
+d’uodu	d’uodu	N;NOM;SG
+d’uodu	d’uodu	N;ACC;SG
+d’uosta	d’uosta	V;NFIN
+d’uotattaa	d’uotattaa	V;NFIN
+d’uottaa	d’uottaa	V;NFIN
+d’uovua	d’uovua	V;NFIN
+d’uuri	d’uuri	N;NOM;SG
+d’uuri	d’uuri	N;ACC;SG
+ehtiä	ehtiä	V;NFIN
+ellendää	ellendää	V;NFIN
+elää	elää	V;NFIN
+haahkoi	haahkoi	ADJ;NOM;SG
+haahkoi	haahkoi	ADJ;ACC;SG
+haažia	haažia	N;NOM;SG
+haažia	haažia	N;ACC;SG
+halvu	halvu	ADJ;NOM;SG
+halvu	halvu	ADJ;ACC;SG
+harmaa	harmaa	ADJ;NOM;SG
+harmaa	harmaa	ADJ;ACC;SG
+havaččua	havaččua	V;NFIN
+heittää	heittää	V;NFIN
+hiemaa	hiemaa	N;NOM;SG
+hiemaa	hiemaa	N;ACC;SG
+hiihtää	hiihtää	V;NFIN
+himoittaa	himoittaa	V;NFIN
+huonehet	huonehet	N;NOM;SG
+huonehet	huonehet	N;ACC;SG
+häähkü	häähkü	N;NOM;SG
+häähkü	häähkü	N;ACC;SG
+hüppiä	hüppiä	V;NFIN
+hüörme	hüörme	N;NOM;SG
+hüörme	hüörme	N;ACC;SG
+ihastua	ihastua	V;NFIN
+iho	iho	N;NOM;SG
+iho	iho	N;ACC;SG
+imiččü	imiččü	N;NOM;SG
+imiččü	imiččü	N;ACC;SG
+järittää	järittää	V;NFIN
+jää	jää	N;NOM;SG
+jää	jää	N;ACC;SG
+kaadaa	kaadaa	V;NFIN
+kaarzata	kaarzata	V;NFIN
+kaavi	kaavi	N;NOM;SG
+kaavi	kaavi	N;ACC;SG
+kaačku	kaačku	N;NOM;SG
+kaačku	kaačku	N;ACC;SG
+kalaittaa	kalaittaa	V;NFIN
+kandupää	kandupää	N;NOM;SG
+kandupää	kandupää	N;ACC;SG
+karaittaa	karaittaa	V;NFIN
+karastoa	karastoa	V;NFIN
+kard’alazet	kard’alazet	N;NOM;SG
+kard’alazet	kard’alazet	N;ACC;SG
+keittää	keittää	V;NFIN
+kellačču	kellačču	N;NOM;SG
+kellačču	kellačču	N;ACC;SG
+keühü	keühü	ADJ;NOM;SG
+keühü	keühü	ADJ;ACC;SG
+kieldää	kieldää	V;NFIN
+kiherät	kiherät	N;NOM;SG
+kiherät	kiherät	N;ACC;SG
+kiildää	kiildää	V;NFIN
+kiirehtää	kiirehtää	V;NFIN
+kiistää	kiistää	V;NFIN
+kirduttaa	kirduttaa	V;NFIN
+kivistää	kivistää	V;NFIN
+kleeveri	kleeveri	N;NOM;SG
+kleeveri	kleeveri	N;ACC;SG
+koziččia	koziččia	V;NFIN
+kuolehtua	kuolehtua	V;NFIN
+kuria	kuria	V;NFIN
+kuuris	kuuris	ADJ;NOM;SG
+kuuris	kuuris	ADJ;ACC;SG
+kärziä	kärziä	V;NFIN
+käskiä	käskiä	V;NFIN
+käägü	käägü	N;NOM;SG
+käägü	käägü	N;ACC;SG
+käändää	käändää	V;NFIN
+käändüä	käändüä	V;NFIN
+külmää	külmää	V;NFIN
+külvää	külvää	V;NFIN
+kündää	kündää	V;NFIN
+küünäspää	küünäspää	N;NOM;SG
+küünäspää	küünäspää	N;ACC;SG
+laadia	laadia	V;NFIN
+laskia	laskia	V;NFIN
+laskiakseh	laskiakseh	V;REFL;NFIN
+lendää	lendää	V;NFIN
+levittää	levittää	V;NFIN
+lieččiä	lieččiä	V;NFIN
+liäzü	liäzü	N;NOM;SG
+liäzü	liäzü	N;ACC;SG
+loppia	loppia	V;NFIN
+luandal	luandal	N;NOM;SG
+luandal	luandal	N;ACC;SG
+lähtiä	lähtiä	V;NFIN
+läikküä	läikküä	V;NFIN
+läimää	läimää	V;NFIN
+löühküttää	löühküttää	V;NFIN
+maakondijane	maakondijane	N;NOM;SG
+maakondijane	maakondijane	N;ACC;SG
+maanita	maanita	V;NFIN
+mard’u	mard’u	N;NOM;SG
+mard’u	mard’u	N;ACC;SG
+mečänižändü	mečänižändü	N;NOM;SG
+mečänižändü	mečänižändü	N;ACC;SG
+meččy	mečän	N;GEN;SG
+meččy	mečän	N;ACC;SG
+meččy	mečäkse	N;TRANS;SG
+meččy	mečäs	N;IN+ESS;SG
+meččy	mečäs	N;IN+ABL;SG
+meččy	meččäh	N;IN+ALL;SG
+meččy	mečäl	N;AT+ABL;SG
+meččy	mečänke	N;COM;SG
+meččy	mečäči	N;PROL;SG
+meččy	mečikse	N;TRANS;PL
+meččy	mečis	N;IN+ESS;PL
+meččy	mečis	N;IN+ABL;PL
+meččy	meččih	N;IN+ALL;PL
+meččy	mečil	N;AT+ABL;PL
+meččy	mečiči	N;PROL;PL
+meččy	mečät	N;NOM;PL
+meččy	mečät	N;ACC;PL
+meččy	meččien	N;GEN;PL
+meččy	meččii	N;PRT;PL
+meččy	meččy	N;NOM;SG
+meččy	meččää	N;PRT;SG
+meččy	mečäspäi	N;IN+ABL;SG
+meččy	mečättäh	N;PRIV ;SG
+meččy	mečälpäi	N;AT+ABL;SG
+meččy	mečittäh	N;PRIV ;PL
+meččy	mečispäi	N;IN+ABL;PL
+meččy	mečilpäi	N;AT+ABL;PL
+meččy	meččienke	N;COM;PL
+mielüttää	mielüttää	V;NFIN
+mihalivaanoo	mihalivaanoo	N;NOM;SG
+mihalivaanoo	mihalivaanoo	N;ACC;SG
+mujaa	mujaa	V;NFIN
+murendaa	murendaa	V;NFIN
+mus’t’oi	mus’t’oi	N;NOM;SG
+mus’t’oi	mus’t’oi	N;ACC;SG
+muurehtua	muurehtua	V;NFIN
+määrätä	määrätä	V;NFIN
+määrü	määrü	N;NOM;SG
+määrü	määrü	N;ACC;SG
+määččü	määččü	N;NOM;SG
+määččü	määččü	N;ACC;SG
+naaglu	naaglu	N;NOM;SG
+naaglu	naaglu	N;ACC;SG
+netäi	netäi	PRO;NOM;SG
+netäi	netäi	PRO;ACC;SG
+niittää	niittää	V;NFIN
+nimittää	nimittää	V;NFIN
+nuari	nuari	ADJ;NOM;SG
+nuari	nuari	ADJ;ACC;SG
+nuat	nuat	PRO;NOM;SG
+nuat	nuat	PRO;ACC;SG
+nukkua	nukkua	V;NFIN
+näälü	näälü	N;NOM;SG
+näälü	näälü	N;ACC;SG
+näärittää	näärittää	V;NFIN
+nülgiä	nülgiä	V;NFIN
+olgupää	olgupää	N;NOM;SG
+olgupää	olgupää	N;ACC;SG
+ottaakseh	ottai	V;REFL;IMP;POS;2;SG
+ottaakseh	otammos	V;REFL;PRS;IND;POS;1;SG
+ottaakseh	ottahes	V;REFL;PRS;IND;POS;3;SG
+ottaakseh	otetahes	V;REFL;PRS;IND;POS;3;PL
+ottaakseh	otattos	V;REFL;PRS;IND;POS;2;SG
+ottaakseh	otammokseh	V;REFL;PRS;IND;POS;1;PL
+ottaakseh	otattokseh	V;REFL;PRS;IND;POS;2;PL
+ottaakseh	en ottai	V;REFL;PRS;IND;NEG;1;SG
+ottaakseh	et ottai	V;REFL;PRS;IND;NEG;2;SG
+ottaakseh	ei ottai	V;REFL;PRS;IND;NEG;3;SG
+ottaakseh	ei ottai	V;REFL;PRS;IND;NEG;3;PL
+ottaakseh	emmo ottai	V;REFL;PRS;IND;NEG;1;PL
+ottaakseh	etto ottai	V;REFL;PRS;IND;NEG;2;PL
+ottaakseh	otimmos	V;REFL;PST;IPFV;IND;POS;1;SG
+ottaakseh	otittos	V;REFL;PST;IPFV;IND;POS;2;SG
+ottaakseh	ottihes	V;REFL;PST;IPFV;IND;POS;3;SG
+ottaakseh	otimmokseh	V;REFL;PST;IPFV;IND;POS;1;PL
+ottaakseh	otittokseh	V;REFL;PST;IPFV;IND;POS;2;PL
+ottaakseh	otettihes	V;REFL;PST;IPFV;IND;POS;3;PL
+ottaakseh	en ottanuhes	V;REFL;PST;IPFV;IND;NEG;1;SG
+ottaakseh	et ottanuhes	V;REFL;PST;IPFV;IND;NEG;2;SG
+ottaakseh	ei ottanuhes	V;REFL;PST;IPFV;IND;NEG;3;SG
+ottaakseh	emmo ottanuhes	V;REFL;PST;IPFV;IND;NEG;1;PL
+ottaakseh	etto ottanuhes	V;REFL;PST;IPFV;IND;NEG;2;PL
+ottaakseh	ei otettuhes	V;REFL;PST;IPFV;IND;NEG;3;PL
+ottaakseh	olen ottanuhes	V;REFL;PRS;PRF;IND;POS;1;SG
+ottaakseh	olet ottanuhes	V;REFL;PRS;PRF;IND;POS;2;SG
+ottaakseh	on ottanuhes	V;REFL;PRS;PRF;IND;POS;3;SG
+ottaakseh	olemmo ottanuhes	V;REFL;PRS;PRF;IND;POS;1;PL
+ottaakseh	olemmo ottanuhes	V;REFL;PRS;PRF;POT;POS;1;PL
+ottaakseh	oletto ottanuhes	V;REFL;PRS;PRF;IND;POS;2;PL
+ottaakseh	oletto ottanuhes	V;REFL;PRS;PRF;POT;POS;2;PL
+ottaakseh	ollah  otettuhes	V;REFL;PRS;PRF;IND;POS;3;PL
+ottaakseh	en ole ottanuhes	V;REFL;PRS;PRF;IND;NEG;1;SG
+ottaakseh	et ole ottanuhes	V;REFL;PRS;PRF;IND;NEG;2;SG
+ottaakseh	ei ole ottanuhes	V;REFL;PRS;PRF;IND;NEG;3;SG
+ottaakseh	emmo ole ottanuhes	V;REFL;PRS;PRF;IND;NEG;1;PL
+ottaakseh	etto ole ottanuhes	V;REFL;PRS;PRF;IND;NEG;2;PL
+ottaakseh	ei olla otettuhes	V;REFL;PRS;PRF;IND;NEG;3;PL
+ottaakseh	olin ottanuhes	V;REFL;PST;PRF;IND;POS;1;SG
+ottaakseh	olit ottanuhes	V;REFL;PST;PRF;IND;POS;2;SG
+ottaakseh	oli ottanuhes	V;REFL;PST;PRF;IND;POS;3;SG
+ottaakseh	olimmmo  ottanuhes	V;REFL;PST;PRF;IND;POS;1;PL
+ottaakseh	olitto ottanuhes	V;REFL;PST;PRF;IND;POS;2;PL
+ottaakseh	oldih otettuhes	V;REFL;PST;PRF;IND;POS;3;PL
+ottaakseh	en olluh ottanuhes	V;REFL;PST;PRF;IND;NEG;1;SG
+ottaakseh	et olluh ottanuhes	V;REFL;PST;PRF;IND;NEG;2;SG
+ottaakseh	ei olluh ottanuhes	V;REFL;PST;PRF;IND;NEG;3;SG
+ottaakseh	emmo olluh ottanuhes	V;REFL;PST;PRF;IND;NEG;1;PL
+ottaakseh	etto olluh ottanuhes	V;REFL;PST;PRF;IND;NEG;2;PL
+ottaakseh	ei oldu otettuhes	V;REFL;PST;PRF;IND;NEG;3;PL
+ottaakseh	ottakkahes	V;REFL;IMP;POS;3;SG
+ottaakseh	ottakkaammokseh	V;REFL;IMP;POS;1;PL
+ottaakseh	ottakkaattokseh	V;REFL;IMP;POS;2;PL
+ottaakseh	otettahes	V;REFL;IMP;POS;3;PL
+ottaakseh	älä ottai	V;REFL;IMP;NEG;2;SG
+ottaakseh	älgäh  ottakkahes	V;REFL;IMP;NEG;3;SG
+ottaakseh	älgiä ottakkaattokseh	V;REFL;IMP;NEG;2;PL
+ottaakseh	äldähes otettahes	V;REFL;IMP;NEG;3;PL
+ottaakseh	ottazimmos	V;REFL;PRS;COND;POS;1;SG
+ottaakseh	ottazittos	V;REFL;PRS;COND;POS;2;SG
+ottaakseh	ottazihes	V;REFL;PRS;COND;POS;3;SG
+ottaakseh	ottazimmokseh	V;REFL;PRS;COND;POS;1;PL
+ottaakseh	ottazittokseh	V;REFL;PRS;COND;POS;2;PL
+ottaakseh	otettazihes	V;REFL;PRS;COND;POS;3;PL
+ottaakseh	en ottazihes	V;REFL;PRS;COND;NEG;1;SG
+ottaakseh	et ottazihes	V;REFL;PRS;COND;NEG;2;SG
+ottaakseh	ei ottazihes	V;REFL;PRS;COND;NEG;3;SG
+ottaakseh	emmo ottazihes	V;REFL;PRS;COND;NEG;1;PL
+ottaakseh	etto ottazihes	V;REFL;PRS;COND;NEG;2;PL
+ottaakseh	ei otettazihes	V;REFL;PRS;COND;NEG;3;PL
+ottaakseh	ottanuzimmos	V;REFL;PST;IPFV;COND;POS;1;SG
+ottaakseh	ottanuzittos	V;REFL;PST;IPFV;COND;POS;2;SG
+ottaakseh	ottanuzihes	V;REFL;PST;IPFV;COND;POS;3;SG
+ottaakseh	ottanuzimmokseh	V;REFL;PST;IPFV;COND;POS;1;PL
+ottaakseh	ottanuzittokseh	V;REFL;PST;IPFV;COND;POS;2;PL
+ottaakseh	otetannuzihes	V;REFL;PST;IPFV;COND;POS;3;PL
+ottaakseh	en ottanuzihes	V;REFL;PST;IPFV;COND;NEG;1;SG
+ottaakseh	et ottanuzihes	V;REFL;PST;IPFV;COND;NEG;2;SG
+ottaakseh	ei ottanuzihes	V;REFL;PST;IPFV;COND;NEG;3;SG
+ottaakseh	emmo ottanuzihes	V;REFL;PST;IPFV;COND;NEG;1;PL
+ottaakseh	etto ottanuzihes	V;REFL;PST;IPFV;COND;NEG;2;PL
+ottaakseh	ei  otetannuzihes	V;REFL;PST;IPFV;COND;NEG;3;PL
+ottaakseh	olizin ottanuhes	V;REFL;PRS;PRF;COND;POS;1;SG
+ottaakseh	olizit ottanuhes	V;REFL;PRS;PRF;COND;POS;2;SG
+ottaakseh	olis ottanuhes	V;REFL;PRS;PRF;COND;POS;3;SG
+ottaakseh	olizimmo ottanuhes	V;REFL;PRS;PRF;COND;POS;1;PL
+ottaakseh	olizitto ottanuhes	V;REFL;PRS;PRF;COND;POS;2;PL
+ottaakseh	oldas  otettuhes	V;REFL;PRS;PRF;COND;POS;3;PL
+ottaakseh	en olis ottanuhes	V;REFL;PRS;PRF;COND;NEG;1;SG
+ottaakseh	et olis ottanuhes	V;REFL;PRS;PRF;COND;NEG;2;SG
+ottaakseh	ei olis ottanuhes	V;REFL;PRS;PRF;COND;NEG;3;SG
+ottaakseh	emmo olis ottanuhes	V;REFL;PRS;PRF;COND;NEG;1;PL
+ottaakseh	etto olis ottanuhes	V;REFL;PRS;PRF;COND;NEG;2;PL
+ottaakseh	ei oldas otettuhes	V;REFL;PRS;PRF;COND;NEG;3;PL
+ottaakseh	olluzin ottanuhes	V;REFL;PST;PRF;COND;POS;1;SG
+ottaakseh	olluzit ottanuhes	V;REFL;PST;PRF;COND;POS;2;SG
+ottaakseh	ollus ottanuhes	V;REFL;PST;PRF;COND;POS;3;SG
+ottaakseh	olluzimmo ottanuhes	V;REFL;PST;PRF;COND;POS;1;PL
+ottaakseh	olluzitto ottanuhes	V;REFL;PST;PRF;COND;POS;2;PL
+ottaakseh	oldanus  otettuhes	V;REFL;PST;PRF;COND;POS;3;PL
+ottaakseh	en ollus ottanuhes	V;REFL;PST;PRF;COND;NEG;1;SG
+ottaakseh	et ollus ottanuhes	V;REFL;PST;PRF;COND;NEG;2;SG
+ottaakseh	ei ollus ottanuhes	V;REFL;PST;PRF;COND;NEG;3;SG
+ottaakseh	emmo ollus ottanuhes	V;REFL;PST;PRF;COND;NEG;1;PL
+ottaakseh	etto ollus ottanuhes	V;REFL;PST;PRF;COND;NEG;2;PL
+ottaakseh	ei oldanus otettuhes	V;REFL;PST;PRF;COND;NEG;3;PL
+ottaakseh	ottanemmos	V;REFL;PRS;POT;POS;1;SG
+ottaakseh	ottanettos	V;REFL;PRS;POT;POS;2;SG
+ottaakseh	ottanehes	V;REFL;PRS;POT;POS;3;SG
+ottaakseh	ottanemmokseh	V;REFL;PRS;POT;POS;1;PL
+ottaakseh	ottanettokseh	V;REFL;PRS;POT;POS;2;PL
+ottaakseh	otettannehes	V;REFL;PRS;POT;POS;3;PL
+ottaakseh	en ottanei	V;REFL;PRS;POT;NEG;1;SG
+ottaakseh	et ottanei	V;REFL;PRS;POT;NEG;2;SG
+ottaakseh	ei ottanei	V;REFL;PRS;POT;NEG;3;SG
+ottaakseh	emmo ottanei	V;REFL;PRS;POT;NEG;1;PL
+ottaakseh	etto ottanei	V;REFL;PRS;POT;NEG;2;PL
+ottaakseh	ei otetannehes	V;REFL;PRS;POT;NEG;3;PL
+ottaakseh	ollen ottanuhes	V;REFL;PRS;PRF;POT;POS;1;SG
+ottaakseh	ollet ottanuhes	V;REFL;PRS;PRF;POT;POS;2;SG
+ottaakseh	olloo ottanuhes	V;REFL;PRS;PRF;POT;POS;3;SG
+ottaakseh	oldaneh  otettuhes	V;REFL;PRS;PRF;POT;POS;3;PL
+ottaakseh	en olle ottanuhes	V;REFL;PRS;PRF;POT;NEG;1;SG
+ottaakseh	et olle ottanuhes	V;REFL;PRS;PRF;POT;NEG;2;SG
+ottaakseh	ei olle ottanuhes	V;REFL;PRS;PRF;POT;NEG;3;SG
+ottaakseh	emmo olle ottanuhes	V;REFL;PRS;PRF;POT;NEG;1;PL
+ottaakseh	etto olle ottanuhes	V;REFL;PRS;PRF;POT;NEG;2;PL
+ottaakseh	ei oldane  otettuhes	V;REFL;PRS;PRF;POT;NEG;3;PL
+ottaakseh	ottaakseh	V;REFL;NFIN
+painaa	painaa	V;NFIN
+paklu	paklu	N;NOM;SG
+paklu	paklu	N;ACC;SG
+parhaine	parhaine	N;NOM;SG
+parhaine	parhaine	N;ACC;SG
+pieksää	pieksää	V;NFIN
+pilvežü	pilvežü	N;NOM;SG
+pilvežü	pilvežü	N;ACC;SG
+piraa	piraa	N;NOM;SG
+piraa	piraa	N;ACC;SG
+piššali	piššali	N;NOM;SG
+piššali	piššali	N;ACC;SG
+plieššipää	plieššipää	ADJ;NOM;SG
+plieššipää	plieššipää	ADJ;ACC;SG
+podarku	podarku	N;NOM;SG
+podarku	podarku	N;ACC;SG
+polgia	polgia	V;NFIN
+poloviekku	poloviekku	N;NOM;SG
+poloviekku	poloviekku	N;ACC;SG
+potkia	potkia	V;NFIN
+počimpoigaine	počimpoigaine	N;NOM;SG
+počimpoigaine	počimpoigaine	N;ACC;SG
+prostia	prostia	V;NFIN
+pugri	pugri	N;NOM;SG
+pugri	pugri	N;ACC;SG
+pää	pää	N;NOM;SG
+pää	pää	N;ACC;SG
+päärmitä	päärmitä	V;NFIN
+pääsköi	pääsköi	N;NOM;SG
+pääsköi	pääsköi	N;ACC;SG
+päästää	päästää	V;NFIN
+päätenčü	päätenčü	N;NOM;SG
+päätenčü	päätenčü	N;ACC;SG
+pääčakko	pääčakko	N;NOM;SG
+pääčakko	pääčakko	N;ACC;SG
+pääčköi	pääčköi	N;NOM;SG
+pääčköi	pääčköi	N;ACC;SG
+pöllättää	pöllättää	V;NFIN
+pühkiä	pühkiä	V;NFIN
+püörde	püörde	N;NOM;SG
+püörde	püörde	N;ACC;SG
+püördüä	püördüä	V;NFIN
+püüdää	püüdää	V;NFIN
+rahat	rahat	N;NOM;SG
+rahat	rahat	N;ACC;SG
+revittää	revittää	V;NFIN
+riibiä	riibiä	V;NFIN
+roujo	roujo	N;NOM;SG
+roujo	roujo	N;ACC;SG
+ruokkia	ruokkia	V;NFIN
+räähkü	räähkü	N;NOM;SG
+räähkü	räähkü	N;ACC;SG
+rääpöi	rääpöi	N;NOM;SG
+rääpöi	rääpöi	N;ACC;SG
+rääzittää	rääzittää	V;NFIN
+rügiä	rügiä	V;NFIN
+rüüdää	rüüdää	V;NFIN
+saaru	saaru	N;NOM;SG
+saaru	saaru	N;ACC;SG
+salvoin	salvoin	N;NOM;SG
+salvoin	salvoin	N;ACC;SG
+savvu	savvu	N;NOM;SG
+savvu	savvu	N;ACC;SG
+savvustaa	savvustaa	V;NFIN
+selgüluu	selgüluu	N;NOM;SG
+selgüluu	selgüluu	N;ACC;SG
+sevoittaa	sevoittaa	V;NFIN
+siera	siera	N;NOM;SG
+siera	siera	N;ACC;SG
+silittää	silittää	V;NFIN
+sizar	sizar	N;NOM;SG
+sizar	sizar	N;ACC;SG
+slaaboi	slaaboi	ADJ;NOM;SG
+slaaboi	slaaboi	ADJ;ACC;SG
+smiettiä	smiettiä	V;NFIN
+sobia	sobia	V;NFIN
+särbää	särbää	V;NFIN
+sää	sää	N;NOM;SG
+sää	sää	N;ACC;SG
+sääri	sääri	N;NOM;SG
+sääri	sääri	N;ACC;SG
+säärivärtinäine	säärivärtinäine	N;NOM;SG
+säärivärtinäine	säärivärtinäine	N;ACC;SG
+säästää	säästää	V;NFIN
+sütüttää	sütüttää	V;NFIN
+süväinkerät	süväinkerät	N;NOM;SG
+süväinkerät	süväinkerät	N;ACC;SG
+süöttää	süöttää	V;NFIN
+tahtua	tahtua	V;NFIN
+taivaz	taivaz	N;NOM;SG
+taivaz	taivaz	N;ACC;SG
+tarviččoo	tarviččoo	V;NFIN
+tiedää	tiedää	V;NFIN
+toimittaa	toimittaa	V;NFIN
+torbu	torbu	N;NOM;SG
+torbu	torbu	N;ACC;SG
+touvot	touvot	N;NOM;SG
+touvot	touvot	N;ACC;SG
+tuuldaa	tuuldaa	V;NFIN
+täpnü	täpnü	N;NOM;SG
+täpnü	täpnü	N;ACC;SG
+täähti	täähti	N;NOM;SG
+täähti	täähti	N;ACC;SG
+täüzaiguine	täüzaiguine	ADJ;NOM;SG
+täüzaiguine	täüzaiguine	ADJ;ACC;SG
+täüzikazvuine	täüzikazvuine	ADJ;NOM;SG
+täüzikazvuine	täüzikazvuine	ADJ;ACC;SG
+tömü	tömü	N;NOM;SG
+tömü	tömü	N;ACC;SG
+tükitä	tükitä	V;NFIN
+tütti	tütti	N;NOM;SG
+tütti	tütti	N;ACC;SG
+tüöndää	tüöndää	V;NFIN
+uberia	uberia	V;NFIN
+ukonvemmel	ukonvemmel	N;NOM;SG
+ukonvemmel	ukonvemmel	N;ACC;SG
+vagaittaa	vagaittaa	V;NFIN
+vačankere	vačankere	ADJ;NOM;SG
+vačankere	vačankere	ADJ;ACC;SG
+vedää	vedää	V;NFIN
+vestää	vestää	V;NFIN
+vierdää	vierdää	V;NFIN
+viheldää	viheldää	V;NFIN
+viihtää	viihtää	V;NFIN
+viiluparzi	viiluparzi	N;NOM;SG
+viiluparzi	viiluparzi	N;ACC;SG
+viiputtaa	viiputtaa	V;NFIN
+virittää	virittää	V;NFIN
+virua	virua	V;NFIN
+virzittäi	virzittäi	N;NOM;SG
+virzittäi	virzittäi	N;ACC;SG
+viuhkuttaa	viuhkuttaa	V;NFIN
+vävvü	vävvü	N;NOM;SG
+vävvü	vävvü	N;ACC;SG
+vääräccü	vääräccü	ADJ;NOM;SG
+vääräccü	vääräccü	ADJ;ACC;SG
+zautrakko	zautrakko	N;NOM;SG
+zautrakko	zautrakko	N;ACC;SG
+zavaalin	zavaalin	N;NOM;SG
+zavaalin	zavaalin	N;ACC;SG
+ärdeh	ärdeh	N;NOM;SG
+ärdeh	ärdeh	N;ACC;SG
+ääni	ääni	N;NOM;SG
+ääni	ääni	N;ACC;SG
+šaapku	šaapku	N;NOM;SG
+šaapku	šaapku	N;ACC;SG
+šahlat	šahlat	N;NOM;SG
+šahlat	šahlat	N;ACC;SG
+štanad’algu	štanad’algu	N;NOM;SG
+štanad’algu	štanad’algu	N;ACC;SG

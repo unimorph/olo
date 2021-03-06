@@ -1,3 +1,0 @@
-# Livvi (Olonets Karelian): Syamozero dialect
-neidoi	n’eidoi	N;NOM;SG
-nelläs	nel’l’äs	NUM;NOM;SG
