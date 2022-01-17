@@ -67,6 +67,7 @@ br’ukvo	br’ukvo	N;NOM;SG
 br’ukvo	br’ukvo	N;ACC;SG
 bumiago	bumiago	N;NOM;SG
 bumiago	bumiago	N;ACC;SG
+bumuagu	bumagịa	N;PRT;SG
 buolo	buolo	N;NOM;SG
 buolo	buolo	N;ACC;SG
 cvetto	cvetto	N;NOM;SG
@@ -79,6 +80,7 @@ diedö	diedö	N;NOM;SG
 diedö	diedö	N;ACC;SG
 dorogo	dorogo	N;NOM;SG
 dorogo	dorogo	N;ACC;SG
+dovariššu	dovariššia	N;PRT;SG
 drožžat	drožžat	N;NOM;SG
 drožžat	drožžat	N;ACC;SG
 duwbo	duwbo	N;NOM;SG
@@ -105,6 +107,7 @@ ferize	ferize	N;NOM;SG
 ferize	ferize	N;ACC;SG
 finat	finat	N;NOM;SG
 finat	finat	N;ACC;SG
+fotografiiruija	fotografiruija	V;NFIN
 funto	funto	N;NOM;SG
 funto	funto	N;ACC;SG
 girbalo	girbalo	N;NOM;SG
@@ -118,6 +121,8 @@ gost’o	gost’o	N;ACC;SG
 grebie	grebie	V;NFIN
 gribo	gribo	N;NOM;SG
 gribo	gribo	N;ACC;SG
+gruppu	gruppu	N;NOM;SG
+gruppu	gruppu	N;ACC;SG
 gruuzd’o	gruuzd’o	N;NOM;SG
 gruuzd’o	gruuzd’o	N;ACC;SG
 gurbo	gurbo	N;NOM;SG
@@ -201,9 +206,14 @@ huondos	huondos	N;NOM;SG
 huondos	huondos	N;ACC;SG
 hutto	hutto	N;NOM;SG
 hutto	hutto	N;ACC;SG
+huuhtaldua	huwhtaldaw	V;REFL;PRS;IND;POS;3;SG
+huuhtaldua	huuhtaldua	V;REFL;NFIN
 huuhtia	huuhtia	V;NFIN
 huumbar	huumbar	N;NOM;SG
 huumbar	huumbar	N;ACC;SG
+huwhtaldaw	huwhtaldaw	V;REFL;NFIN
+huwhtaldua	huwhtaldua	N;NOM;SG
+huwhtaldua	huwhtaldua	N;ACC;SG
 häkke	häkke	N;NOM;SG
 häkke	häkke	N;ACC;SG
 hämähäkkö	hämähäkkö	N;NOM;SG
@@ -276,6 +286,8 @@ kainalus	kainalus	N;ACC;SG
 kaivia	kaivia	V;NFIN
 kakse	kakse	NUM;NOM;SG
 kakse	kakse	NUM;ACC;SG
+kaksitoštu	kaksitoštu	NUM;NOM;SG
+kaksitoštu	kaksitoštu	NUM;ACC;SG
 kalaittia	kalaittia	V;NFIN
 kalie	kalie	V;NFIN
 kalmo	kalmo	N;NOM;SG
@@ -285,6 +297,7 @@ kanates	kanates	N;ACC;SG
 kandia	kandia	V;NFIN
 kando	kando	N;NOM;SG
 kando	kando	N;ACC;SG
+kandua	kannettịh	V;PRS;IND;POS;3;PL
 kange	kange	N;NOM;SG
 kange	kange	N;ACC;SG
 karandaššo	karandaššo	N;NOM;SG
@@ -301,6 +314,10 @@ karto	karto	N;NOM;SG
 karto	karto	N;ACC;SG
 kartohko	kartohko	N;NOM;SG
 kartohko	kartohko	N;ACC;SG
+kartočku	kartočku	N;NOM;SG
+kartočku	kartočku	N;ACC;SG
+kartočku	kartočkal	N;AT+ESS;SG
+kartočku	kartočkuw	N;PRT;PL
 karvo	karvo	N;NOM;SG
 karvo	karvo	N;ACC;SG
 kaske	kaske	N;NOM;SG
@@ -359,6 +376,7 @@ kobro	kobro	N;NOM;SG
 kobro	kobro	N;ACC;SG
 kode	kode	N;NOM;SG
 kode	kode	N;ACC;SG
+kodvaine	kodvažen	N;GEN;SG
 kohendia	kohendia	V;NFIN
 kohto	kohto	N;NOM;SG
 kohto	kohto	N;ACC;SG
@@ -394,6 +412,10 @@ krotto	krotto	N;NOM;SG
 krotto	krotto	N;ACC;SG
 kruwgluo	kruwgluo	ADJ;NOM;SG
 kruwgluo	kruwgluo	ADJ;ACC;SG
+kružku	kružku	N;NOM;SG
+kružku	kružku	N;ACC;SG
+kružku	kružkịa	N;PRT;SG
+kružku	kružkas	N;IN+ESS;SG
 kuaško	kuaško	N;NOM;SG
 kuaško	kuaško	N;ACC;SG
 kudia	kudia	V;NFIN
@@ -495,6 +517,7 @@ lauččo	lauččo	N;NOM;SG
 lauččo	lauččo	N;ACC;SG
 laško	laško	ADJ;NOM;SG
 laško	laško	ADJ;ACC;SG
+lehmy	l’ehmie	N;PRT;SG
 lehmö	lehmö	N;NOM;SG
 lehmö	lehmö	N;ACC;SG
 lehte	lehte	N;NOM;SG
@@ -552,6 +575,13 @@ lämmörando	lämmörando	N;NOM;SG
 lämmörando	lämmörando	N;ACC;SG
 l’amko	l’amko	N;NOM;SG
 l’amko	l’amko	N;ACC;SG
+l’ehmä	l’ehmä	N;NOM;SG
+l’ehmä	l’ehmä	N;ACC;SG
+l’ehmä	l’ehmie	N;PRT;SG
+l’ehmä	l’ehmä	N;NOM;SG
+l’ehmä	l’ehmä	N;ACC;SG
+l’üpsiä	l’üpsiä	V;NFIN
+l’üpsiä	l’üpsiin	V;PST;IPFV;IND;POS;1;SG
 maimo	maimo	N;NOM;SG
 maimo	maimo	N;ACC;SG
 maksia	maksia	V;NFIN
@@ -618,6 +648,7 @@ muzau	muzau	ADJ;ACC;SG
 muštia	muštia	V;NFIN
 mužikko	mužikko	N;NOM;SG
 mužikko	mužikko	N;ACC;SG
+myö	Miän	PRO;GEN;PL
 mägrö	mägrö	N;NOM;SG
 mägrö	mägrö	N;ACC;SG
 märgö	märgö	N;NOM;SG
@@ -800,6 +831,10 @@ praudo	praudo	N;NOM;SG
 praudo	praudo	N;ACC;SG
 priaznikko	priaznikko	N;NOM;SG
 priaznikko	priaznikko	N;ACC;SG
+projavitel’	projavitel’	N;NOM;SG
+projavitel’	projavitel’	N;ACC;SG
+projavitel’	projavit’el’ästa	N;PRT;SG
+projavitel’	projavitel’äh	N;IN+ALL;SG
 prolubo	prolubo	N;NOM;SG
 prolubo	prolubo	N;ACC;SG
 puaro	puaro	N;NOM;SG
@@ -841,6 +876,9 @@ raudo	raudo	N;NOM;SG
 raudo	raudo	N;ACC;SG
 rauho	rauho	N;NOM;SG
 rauho	rauho	N;ACC;SG
+raznoi	raznoi	ADJ;NOM;SG
+raznoi	raznoi	ADJ;ACC;SG
+raznoi	raznoidu	ADJ;PRT;SG
 razvo	razvo	N;NOM;SG
 razvo	razvo	N;ACC;SG
 rebittie	rebittie	V;NFIN
@@ -902,6 +940,8 @@ räbin	räbin	N;ACC;SG
 räkke	räkke	N;NOM;SG
 räkke	räkke	N;ACC;SG
 rüvvellä	rüvvellä	V;NFIN
+rịadua	rịadua	V;REFL;NFIN
+rịaduin	rịaduin	V;REFL;NFIN
 sagarmo	sagarmo	N;NOM;SG
 sagarmo	sagarmo	N;ACC;SG
 saivar	saivar	N;NOM;SG
@@ -1007,6 +1047,9 @@ stiavat	stiavat	N;NOM;SG
 stiavat	stiavat	N;ACC;SG
 stožaro	stožaro	N;NOM;SG
 stožaro	stožaro	N;ACC;SG
+strelkovoi	strelkovoi	ADJ;NOM;SG
+strelkovoi	strelkovoi	ADJ;ACC;SG
+strelkovoi	strelkovois	ADJ;IN+ESS;SG
 stroičampäivö	stroičampäivö	N;NOM;SG
 stroičampäivö	stroičampäivö	N;ACC;SG
 suabro	suabro	N;NOM;SG
@@ -1137,6 +1180,8 @@ uske	uske	N;NOM;SG
 uske	uske	N;ACC;SG
 uspokoija	uspokoija	V;NFIN
 uwttia	uwttia	V;NFIN
+učit’eli	učit’eli	N;NOM;SG
+učit’eli	učit’eli	N;ACC;SG
 uško	uško	N;NOM;SG
 uško	uško	N;ACC;SG
 vahno	vahno	ADJ;NOM;SG
@@ -1170,6 +1215,7 @@ veräit	veräit	N;NOM;SG
 veräit	veräit	N;ACC;SG
 veslo	veslo	N;NOM;SG
 veslo	veslo	N;ACC;SG
+vezi	veessä	N;IN+ESS;SG
 viakso	viakso	N;NOM;SG
 viakso	viakso	N;ACC;SG
 vialo	vialo	N;NOM;SG
