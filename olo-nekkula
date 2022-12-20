@@ -77,6 +77,7 @@ karjalažet	karjalažet	N;NOM;SG
 karjalažet	karjalažet	N;ACC;SG
 kartowhku	kartowhku	N;NOM;SG
 kartowhku	kartowhku	N;ACC;SG
+kazvua	kazvanut	V.PTCP;PST;ACT
 kierata	kierata	V;NFIN
 kindei	kindei	ADJ;NOM;SG
 kindei	kindei	ADJ;ACC;SG
@@ -111,6 +112,8 @@ liäžmü	liäžmü	N;NOM;SG
 liäžmü	liäžmü	N;ACC;SG
 luami	luami	N;NOM;SG
 luami	luami	N;ACC;SG
+lypsiä	lypsiimmö	V;PST;IPFV;IND;POS;1;PL
+lypsiä	Lypsiimmö	V;PST;IPFV;IND;POS;1;PL
 läžimiine	läžimiine	N;NOM;SG
 läžimiine	läžimiine	N;ACC;SG
 löühküttiä	löühküttiä	V;NFIN
@@ -139,6 +142,8 @@ nuaru	nuaru	N;NOM;SG
 nuaru	nuaru	N;ACC;SG
 nuattu	nuattu	N;NOM;SG
 nuattu	nuattu	N;ACC;SG
+olla	eulut	V;PST;IPFV;IND;NEG;3;SG
+olla	on|häi	V;PRS;IND;POS;3;SG
 orahankarvaine	orahankarvaine	ADJ;NOM;SG
 orahankarvaine	orahankarvaine	ADJ;ACC;SG
 orahažet	orahažet	N;NOM;SG
@@ -147,6 +152,7 @@ oraw	oraw	N;NOM;SG
 oraw	oraw	N;ACC;SG
 ottotuatto	ottotuatto	N;NOM;SG
 ottotuatto	ottotuatto	N;ACC;SG
+ottua	otti|häi	V;PST;IPFV;IND;POS;3;SG
 owgi	owgi	N;NOM;SG
 owgi	owgi	N;ACC;SG
 paišta	paišta	V;NFIN
@@ -154,6 +160,7 @@ palaw	palaw	ADJ;NOM;SG
 palaw	palaw	ADJ;ACC;SG
 pawstaaine	pawstaaine	N;NOM;SG
 pawstaaine	pawstaaine	N;ACC;SG
+pidiä	pidänyt	V.PTCP;PST;ACT
 piiputtua	piiputtua	V;NFIN
 pimežü	pimežü	N;NOM;SG
 pimežü	pimežü	N;ACC;SG
@@ -210,8 +217,11 @@ salbain	salbain	N;ACC;SG
 savvustua	savvustua	V;NFIN
 sawgo	sawgo	N;NOM;SG
 sawgo	sawgo	N;ACC;SG
+sdaija	sdaija	V;NFIN
+sdaija	sdaičiimmo	V;PST;IPFV;IND;POS;1;PL
 seiččia	seiččia	NUM;NOM;SG
 seiččia	seiččia	NUM;ACC;SG
+seiččiekymmen	Seiččiekymen	NUM;ACC;SG
 seižattua	seižattua	V;NFIN
 seižuo	seižuo	V;NFIN
 selgüruho	selgüruho	N;NOM;SG
@@ -297,6 +307,8 @@ valmiš	valmiš	ADJ;ACC;SG
 valuttoa	valuttoa	V;NFIN
 vavarjo	vavarjo	N;NOM;SG
 vavarjo	vavarjo	N;ACC;SG
+vaza	vaza|gi	N;NOM;SG
+vediä	vedi|häi	V;PST;IPFV;IND;POS;3;SG
 ven’al’ažet	ven’al’ažet	N;NOM;SG
 ven’al’ažet	ven’al’ažet	N;ACC;SG
 verdüä	verdüä	V;NFIN
@@ -324,6 +336,7 @@ zavualim	zavualim	N;NOM;SG
 zavualim	zavualim	N;ACC;SG
 zawhtrokku	zawhtrokku	N;NOM;SG
 zawhtrokku	zawhtrokku	N;ACC;SG
+äijy	Äijy|go	ADJ;ACC;SG
 ünnälliine	ünnälliine	N;NOM;SG
 ünnälliine	ünnälliine	N;ACC;SG
 üä	üä	N;NOM;SG

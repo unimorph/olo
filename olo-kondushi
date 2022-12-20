@@ -61,6 +61,8 @@ bohatto	bohatto	ADJ;ACC;SG
 bokko	bokko	N;NOM;SG
 bokko	bokko	N;ACC;SG
 boleija	boleija	V;NFIN
+bošše	bošše	N;NOM;SG
+bošše	bošše	N;ACC;SG
 brusakko	brusakko	N;NOM;SG
 brusakko	brusakko	N;ACC;SG
 br’ukvo	br’ukvo	N;NOM;SG
@@ -376,7 +378,6 @@ kobro	kobro	N;NOM;SG
 kobro	kobro	N;ACC;SG
 kode	kode	N;NOM;SG
 kode	kode	N;ACC;SG
-kodvaine	kodvažen	N;GEN;SG
 kohendia	kohendia	V;NFIN
 kohto	kohto	N;NOM;SG
 kohto	kohto	N;ACC;SG
@@ -578,8 +579,6 @@ l’amko	l’amko	N;ACC;SG
 l’ehmä	l’ehmä	N;NOM;SG
 l’ehmä	l’ehmä	N;ACC;SG
 l’ehmä	l’ehmie	N;PRT;SG
-l’ehmä	l’ehmä	N;NOM;SG
-l’ehmä	l’ehmä	N;ACC;SG
 l’üpsiä	l’üpsiä	V;NFIN
 l’üpsiä	l’üpsiin	V;PST;IPFV;IND;POS;1;SG
 maimo	maimo	N;NOM;SG
@@ -915,8 +914,6 @@ ristikanzo	ristikanzo	N;NOM;SG
 ristikanzo	ristikanzo	N;ACC;SG
 ristitiatto	ristitiatto	N;NOM;SG
 ristitiatto	ristitiatto	N;ACC;SG
-risto	risto	N;NOM;SG
-risto	risto	N;ACC;SG
 rossado	rossado	N;NOM;SG
 rossado	rossado	N;ACC;SG
 rotto	rotto	N;NOM;SG
